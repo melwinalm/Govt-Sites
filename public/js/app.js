@@ -10,6 +10,12 @@ var content = [
         "description": "Indian Railway ticket bookings",
         "url": "https://www.irctc.co.in",
         "tags": ["railway", "ticket", "booking"]
+    },
+	{
+        "title": "KSRTC",
+        "description": "KSRTC ticket bookings",
+        "url": "https://ksrtc.in/oprs-web/login/show.do",
+        "tags": ["karnataka", "state", "road", "transport", "ticket", "booking", "bus", "travel"]
     }
 ]
 
