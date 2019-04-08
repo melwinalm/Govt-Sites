@@ -16,6 +16,12 @@ var content = [
         "description": "KSRTC ticket bookings",
         "url": "https://ksrtc.in/oprs-web/login/show.do",
         "tags": ["karnataka", "state", "road", "transport", "ticket", "booking", "bus", "travel"]
+    },
+    {
+        "title": "Ministry of Road Transport and Highways",
+        "description": "Find your vehicle registration details",
+        "url": "https://parivahan.gov.in/rcdlstatus",
+        "tags": ["vehicle", "registration", "rto", "number", "date", "maker", "model", "engine"]
     }
 ]
 
